@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Mobile-App",
-    "slug": "mobile",
+    "name": "DevMaps",
+    "slug": "devMaps",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
